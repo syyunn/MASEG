@@ -4,9 +4,9 @@
 
 #### Abstact
 
-English basically consists of semantics of the words and syntatical concatenations of those. This paper introduces the computational skills to approximate the synthetic functions underylying in English, especially regarding adjectival relation and verbal phrase.
+English basically consists of semantics of the words and syntatical concatenations of those. This paper introduces the computational skills to approximate the syntactic functions underylain in English, especially regarding adjectival relation and verbal phrase.
 
-This techinique helps us to implement different syntatic intepretation and compuation rules upon the concatenation of morphems into words or words into sentences with numeric vectors so that the information flow in English can be vividly represented in terms of numberical representation. 
+This techinique helps us to implement different syntatic intepretation and compuation rules upon the concatenation of morphems into word and words into a phrase or sentence with numeric vectors so that the information flow in English can be objectively tracked with numerical representations. 
 
 #### Basic Example
 
